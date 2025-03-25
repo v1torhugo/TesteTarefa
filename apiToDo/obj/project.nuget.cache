@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGU6gWCa1MQ=",
+  "dgSpecHash": "KgxBi1itJBk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TIBUFF\\source\\repos\\TesteJRBackend\\apiToDo\\apiToDo.csproj",
+  "projectFilePath": "C:\\Users\\TIBUFF\\OneDrive\\Documentos\\Projetos\\TesteTarefa\\apiToDo\\apiToDo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TIBUFF\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\TIBUFF\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
